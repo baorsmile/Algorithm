@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BAOTableViewController.h
 //  Algorithm
 //
 //  Created by dabao on 2016/11/10.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface BAOTableViewController : UITableViewController
 
 @end
-
